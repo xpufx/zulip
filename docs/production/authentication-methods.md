@@ -598,6 +598,9 @@ to the root and `engineering` subdomains:
          importing, only the certificate will be displayed (not the private
          key).
 
+
+### Using Authentik as a SAML IdP
+
 ### IdP-initiated SAML Logout
 
 Zulip 5.0 introduces beta support for IdP-initiated SAML Logout. The
